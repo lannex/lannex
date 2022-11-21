@@ -10,9 +10,9 @@
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Rescript-E6484F?style=flat-square&logo=Rescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
 </div>
 <div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=Clojure&logoColor=white" />
 </div>
 
@@ -24,6 +24,7 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=Koa&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />
 </div>
