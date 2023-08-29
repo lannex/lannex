@@ -13,6 +13,7 @@
 </div>
 <div>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Clojure-5881D8?style=flat-square&logo=Clojure&logoColor=white" />
 </div>
@@ -24,15 +25,16 @@
   <img src="https://img.shields.io/badge/Gatsby-663399?style=flat-square&logo=Gatsby&logoColor=white" />
 </div>
 <div>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white" />
   <img src="https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=Fastify&logoColor=white" />
   <img src="https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=Koa&logoColor=white" />
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white" />
 </div>
 <div>
   <img src="https://img.shields.io/badge/Apollo GraphQL-311C87?style=flat-square&logo=Apollo GraphQL&logoColor=white" />
 </div>
 <div>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white" />
 </div>
 
